@@ -110,7 +110,7 @@ body {
     white-space: nowrap;
 }
 .nav__link:hover {
-    color: #0084ff;
+    color: #00aeff;
 }
 .nav2 {
     font-size: 35px;
@@ -168,7 +168,7 @@ body {
 }
 
 .nav__link2.active {
-    color: #0084ff;
+    color: #00aeff;
 }
 .section {
 padding: 50px 0;
