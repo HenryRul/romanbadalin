@@ -7,7 +7,7 @@
     text-transform: uppercase;
     animation: neon-1 .5s ease-in-out infinite alternate;
 }
-keyframes neon-1 {
+@keyframes neon-1 {
     from {
         text-shadow: 0 0 6px rgba(17, 81, 255, 0.92), 0 0 30px rgba(14, 147, 255, 0.34), 0 0 12px rgba(0, 140, 255, 0.52), 0 0 21px rgba(0, 204, 240, 0.92), 0 0 34px rgba(2, 193, 252, 0.78), 0 0 54px rgba(0, 198, 248, 0.92);
     }
