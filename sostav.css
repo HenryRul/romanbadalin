@@ -43,7 +43,7 @@ body {
   height: 100vh;
   background: #000;
   border: 6px solid rgb(0, 0, 0);
-  margin-bottom: 6px;
+  margin-bottom: 0px;
 }
 .intro__title {
     color: #fff;
