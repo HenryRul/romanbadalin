@@ -163,11 +163,6 @@ body {
 
     transition: opacity .1s linear;
 }
-
-.nav__link2:hover {
-    color: #0084ff;
-}
-
 .nav__link2:hover:after,
 .nav__link2.active:after {
     opacity: 1;
